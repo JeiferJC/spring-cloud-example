@@ -1,3 +1,2 @@
-port: 8080
 
-message: This is a general message that will be reflected into each service
+global-message: This is a general message that will be reflected into each service
