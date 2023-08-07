@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:9997}
+  
+message: Costumer Configuration server is alive for DEV!   
